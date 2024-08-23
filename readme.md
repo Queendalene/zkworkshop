@@ -1,6 +1,6 @@
-### workshop1 (hello world)
-transaction id:at1zp755cqvyx2gs2h3aqyc0vwdhlzeux23yvcdh4ul7nu6e235uvxs3uqj07
+### workshop2 (hello world)
+transaction id:at1x8a4sszvkhvr8nfppjamyxpjredkun6sgakf4vav05qtdugywvqqzmyxkn
 # description
-i deployed my first program using demo.leo.app
+i deployed my second program using leo playground
 # preview
-![Screenshot 2024-08-22 205737](https://github.com/user-attachments/assets/ea144a80-97cd-43d0-8c87-55e52bccc420)
+![Screenshot 2024-08-23 172708](https://github.com/user-attachments/assets/23696b1d-9f71-4cde-a9ee-49d6d5466745)
